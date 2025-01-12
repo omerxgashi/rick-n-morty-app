@@ -1,0 +1,27 @@
+{
+    "count": "Anzahl",
+    "pages": "Seiten",
+    "next": "Nächste",
+    "prev": "Vorherige",
+    "results": "Ergebnisse",
+    "id": "ID",
+    "name": "Name",
+    "status": "Status",
+    "species": "Spezies",
+    "gender": "Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "image": "Bild",
+    "origin": "Herkunft",
+    "loading": "Lädt...",
+    "error": "Ein Fehler ist aufgetreten",
+    "english": "Englisch",
+    "german": "Deutsch",
+    "resetFilters": "zurücksetzen",
+    "unknownOrigin": "Unbekannte Herkunft",
+    "status_alive": "Lebendig",
+    "status_dead": "Tot",
+    "species_human": "Mensch",
+    "species_alien": "Außerirdisch"
+  }
+  
